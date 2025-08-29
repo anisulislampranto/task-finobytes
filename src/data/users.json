@@ -1,0 +1,20 @@
+[
+    {
+        "id": "u1",
+        "name": "Alice",
+        "email": "alice@example.com",
+        "points": 120
+    },
+    {
+        "id": "u2",
+        "name": "Bob",
+        "email": "bob@example.com",
+        "points": 75
+    },
+    {
+        "id": "u3",
+        "name": "Chandra",
+        "email": "chandra@example.com",
+        "points": 20
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "m1",
+        "store": "Fino Shop",
+        "email": "fino@example.com",
+        "contributionRate": 5,
+        "notifications": []
+    },
+    {
+        "id": "m2",
+        "store": "Merchant Two",
+        "email": "m2@example.com",
+        "contributionRate": 10,
+        "notifications": []
+    }
+]

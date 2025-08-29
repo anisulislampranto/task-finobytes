@@ -1,0 +1,23 @@
+[
+    {
+        "id": "p1",
+        "merchantId": "m1",
+        "customer": "Alice",
+        "amount": 100,
+        "status": "pending"
+    },
+    {
+        "id": "p2",
+        "merchantId": "m1",
+        "customer": "Bob",
+        "amount": 50,
+        "status": "pending"
+    },
+    {
+        "id": "p3",
+        "merchantId": "m2",
+        "customer": "Chandra",
+        "amount": 200,
+        "status": "pending"
+    }
+]
